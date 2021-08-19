@@ -1,0 +1,9 @@
+/*
+JS is a language async and dont blocker... async is an action that never happed at same time...
+Our handle of event is the event loop
+
+Memmory hip... espace of memory at all the aplication
+queue of task
+callback
+
+*/
